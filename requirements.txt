@@ -1,0 +1,5 @@
+Dgango
+Pillow
+gunicorn
+pyTelegramBotAPI
+whitenoise
